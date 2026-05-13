@@ -1,4 +1,4 @@
-# ICC732-1: Tarea 6 - Clasificación según conjunto de datos
+# Tarea 6 - Clasificación según conjunto de datos
 
 ## Descripción
 
@@ -90,14 +90,14 @@ o abrir directamente en Google Colab.
 
 ## Integrantes
 
-- Ignacio Manríquez (@lNachox)
-- Carlos Cienfuegos (@)
-- Eduardo Krause (@)
-- Cristopher Gallegos (@)
+- Ignacio Manríquez ([@lNachox](https://github.com/lNachox))
+- Carlos Cienfuegos ([@CarlosCienfuegos1](https://github.com/CarlosCienfuegos1))
+- Eduardo Krause ([@Eduardok01](https://github.com/Eduardok01))
+- Cristopher Gallegos ([@Ertrax147](https://github.com/Ertrax147))
 
 ---
 
 ## Asignatura
 
-**Ingeniería de Datos**  
-Universidad de la Frontera
+**ICC732-1: Ingeniería de Datos**  
+**Universidad de la Frontera**
